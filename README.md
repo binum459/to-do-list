@@ -2,6 +2,8 @@
 
 A simple to-do list web app built with plain **HTML, CSS and JavaScript** — no frameworks or libraries.
 
+**Live demo:** https://binum459.github.io/to-do-list/
+
 ![To-Do List app](screenshots/app.png)
 
 ## Features
